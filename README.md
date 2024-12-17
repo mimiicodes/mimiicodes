@@ -15,6 +15,7 @@ I'm a frontend developer with a passion for building responsive, user-friendly w
 ![styled-components](https://img.shields.io/badge/styled%20components-05122A?style=flat&logo=styled-components)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![Netlify](https://img.shields.io/badge/Netlify-05122A?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/Netlify-05122A?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
 
 ## 🔗 Links
