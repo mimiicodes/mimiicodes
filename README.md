@@ -4,7 +4,7 @@
 
   
 ## 🎲 About Me
-I'm a frontend developer with a passion for building responsive, user-friendly web applications. Skilled in HTML, CSS, JavaScript, and modern frameworks like React, I focus on delivering clean, efficient code and seamless user experiences. I’m always learning new tools and trends to stay ahead in web development. When I'm not coding, I enjoy exploring design and working on creative side projects.
+I'm a frontend developer passionate about building responsive, user-friendly web applications. Skilled in HTML, CSS, JavaScript, and modern frameworks like React, I focus on delivering clean, efficient code and seamless user experiences. I’m always learning new tools and trends to stay ahead in web development. I enjoy exploring design and working on creative side projects when I'm not coding.
 
 ## 🏸 Skills
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -14,8 +14,8 @@ I'm a frontend developer with a passion for building responsive, user-friendly w
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![styled-components](https://img.shields.io/badge/styled%20components-05122A?style=flat&logo=styled-components)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![Netlify](https://img.shields.io/badge/Netlify-05122A?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/Netlify-05122A?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-05122A?style=for-the-badge&logo=netlify)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
 
 ## 🔗 Links
