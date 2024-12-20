@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/mirakle/image/upload/v1729978773/download_dhxf5n.jpg"></p>
+<p align="center"><img src="https://res.cloudinary.com/mirakle/image/upload/v1729978773/download_dhxf5n.jpg" style="width:300px;height:300px;"></p>
 
 # Hi, I'm Mimi! 🤝🏽✨
 
